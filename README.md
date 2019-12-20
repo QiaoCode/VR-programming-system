@@ -13,7 +13,8 @@ Third party assets
 
 
 One-paragraph description
-VR-Pro is a coding game for children in VR environment. There are two parts of this game: create and program. In the create part, children can use the map elements (island, tree, chick, etc) to create their own map. In the programming part, children will have a programming panel on their left hand with program blocks on it, and they can grab and put these blocks in 3d space to create programs and run it.
+
+VWord is a coding game for children in VR environment. There are two parts of this game: create and program. In the create part, children can use the map elements (island, tree, chick, etc) to create their own map. In the programming part, children will have a programming panel on their left hand with program blocks on it, and they can grab and put these blocks in 3d space to create programs and run it.
 
 
 Instructions for running the project
